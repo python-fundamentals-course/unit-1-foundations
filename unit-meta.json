@@ -1,0 +1,17 @@
+{
+  "id": "unit-1",
+  "slug": "unit-1-foundations",
+  "title": "Python Foundations & Setup",
+  "description": "The Python data model, variables, types, and your first Codespaces environment.",
+  "learning_objectives": [
+    "Run Python in a Jupyter notebook inside GitHub Codespaces",
+    "Explain the difference between int, float, str, and bool",
+    "Write and run a simple script using variables and print()"
+  ],
+  "original_video": "V1 \u2014 Course Orientation & the Data Science Context",
+  "curated_videos": [
+    "Corey Schafer: Python Beginner Tutorial 1 \u2014 Integers and Floats",
+    "Corey Schafer: Python Beginner Tutorial 2 \u2014 Strings"
+  ],
+  "codespace_repo": "unit-1-foundations"
+}
