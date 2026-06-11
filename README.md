@@ -1,6 +1,6 @@
 # Unit 1: Python Foundations & Setup
 
-> **Python Fundamentals** | NTU Academy for Professional and Continuing Education
+> **Python Fundamentals**
 
 The Python data model, variables, types, and your first Codespaces environment.
 
@@ -29,5 +29,4 @@ By the end of this unit you will be able to:
 
 ## Course
 
-Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course —
-NTU Academy for Professional and Continuing Education.
+Part of the [Python Fundamentals](https://github.com/python-fundamentals-course/course-overview) course.
