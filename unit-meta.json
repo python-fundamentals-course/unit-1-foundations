@@ -8,10 +8,62 @@
     "Explain the difference between int, float, str, and bool",
     "Write and run a simple script using variables and print()"
   ],
-  "original_video": "V1 \u2014 Course Orientation & the Data Science Context",
-  "curated_videos": [
-    "Corey Schafer: Python Beginner Tutorial 1 \u2014 Integers and Floats",
-    "Corey Schafer: Python Beginner Tutorial 2 \u2014 Strings"
+  "codespace_repo": "unit-1-foundations",
+  "videos": [
+    {
+      "name": "Course Orientation: Introduction",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209426334",
+      "duration_min": 2
+    },
+    {
+      "name": "Why this course matters",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209438105",
+      "duration_min": 3
+    },
+    {
+      "name": "Your learning environment",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209491576",
+      "duration_min": 5
+    },
+    {
+      "name": "What Level 2 looks like",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209569549",
+      "duration_min": 4
+    },
+    {
+      "name": "Creating your Github account",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209268864/3c724d85c4",
+      "duration_min": 2
+    },
+    {
+      "name": "Creating your Github repository for Unit 1",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209361262",
+      "duration_min": 6
+    },
+    {
+      "name": "Spinning up your Github Codespace",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209385078",
+      "duration_min": 4
+    },
+    {
+      "name": "How to test your code",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209389858",
+      "duration_min": 2
+    },
+    {
+      "name": "Environment Setup wrap-up",
+      "type": "vimeo",
+      "url": "https://vimeo.com/1209393112",
+      "duration_min": 0
+    }
   ],
-  "codespace_repo": "unit-1-foundations"
+  "curated_videos": []
 }
