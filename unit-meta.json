@@ -65,5 +65,18 @@
       "duration_min": 0
     }
   ],
-  "curated_videos": []
+  "curated_videos": [
+    {
+      "name": "C1 — Integers and Floats",
+      "type": "youtube",
+      "url": "https://youtu.be/khKv-8q7YmY",
+      "duration_min": 12
+    },
+    {
+      "name": "C2 — Strings",
+      "type": "youtube",
+      "url": "https://youtu.be/k9TUPpGqYTo",
+      "duration_min": 21
+    }
+  ]
 }
